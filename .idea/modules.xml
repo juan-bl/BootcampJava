@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula/Aula.iml" filepath="$PROJECT_DIR$/Aula/Aula.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BootcampJava.iml" filepath="$PROJECT_DIR$/.idea/BootcampJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/Desafios/Desafios.iml" />
     </modules>
